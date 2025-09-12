@@ -1,3 +1,4 @@
 [deps]
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Integrals = "de52edbc-65ea-441a-8357-d3a637375a31"
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
